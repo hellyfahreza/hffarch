@@ -1,1 +1,1 @@
-{"name": "architecture-ai-renderer-frontend","version": "1.0.0","private": true,"dependencies": {"react": "^17.0.0","react-dom": "^17.0.0"},"scripts": {"start": "react-scripts start"}}
+{ "name": "architecture-ai-renderer-frontend", "version": "1.0.0", "dependencies": { "react": "^17.0.2", "react-dom": "^17.0.2", "tailwindcss": "^2.0.0", "axios": "^0.21.1" }}
