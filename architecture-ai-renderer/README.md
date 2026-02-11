@@ -1,0 +1,1 @@
+# Architecture AI Renderer\n\nThis repository contains the Architecture AI Renderer project consisting of both frontend and backend components.\n
